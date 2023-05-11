@@ -1,3 +1,7 @@
+// Juarez Giacomo Ramiro 91434/5
+// Brian Emanuel Díaz 91306/9
+// Facundo Bernal 91488/1
+
 GestorDeInteraccion g;
 ArrayList<Cuadrados1> cs;
 void setup () {
