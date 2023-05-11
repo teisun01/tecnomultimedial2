@@ -2,6 +2,8 @@
 // Brian Emanuel Díaz 91306/9
 // Facundo Bernal 91488/1
 //  Comisión Lisandro
+// https://youtu.be/Ha-SyfJn2SU
+
 GestorDeInteraccion g;
 ArrayList<Cuadrados1> cs;
 void setup () {
