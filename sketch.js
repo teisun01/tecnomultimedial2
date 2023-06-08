@@ -1,6 +1,6 @@
-// Comisión Lisandro.
-
+// Comisión Lisandro
 //Grupo: Juarez Giacomo Ramiro 91434/5 Brian Díaz 91306/8 Facundo Bernal 91488/1
+// https://youtu.be/XelIeX43E1Y
 
 // Variable contador para aumentar el índice del arreglo
 let contador = 0;
